@@ -1,0 +1,46 @@
+* {
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	box-sizing: border-box;
+}
+
+html {
+
+}
+
+body {
+	background-color: #fff;
+	line-height: normal;
+}
+
+img {
+	max-width: 100%;
+	margin: 0;
+	display: block;
+}
+
+ul, li {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	display: inline-block;
+	text-decoration: none;
+}
+
+input:focus,
+textarea:focus {
+	outline: none;
+	box-shadow: none;
+}
+
+/* Header Start */
+
+.mobile_sidebar_menu {
+	display: none;
+}
+
+/* Header End */
